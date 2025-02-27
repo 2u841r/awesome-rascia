@@ -11,11 +11,15 @@
 <br />
 <br />
 <br />
+
+Interesting thing - 
+- [fireship](https://www.youtube.com/watch?v=FQPlEnKav48)
+- [theo ](https://www.youtube.com/watch?v=O-EWIlZW0mM)
+  
 <div align="center">
 Special Thanks to 
 
-
-
+> 
 <img src="https://raw.githubusercontent.com/2u841r/bytes-newsletter-theme/main/images/logo.png" width="20" /> [Bytes Newsletter Theme](https://marketplace.visualstudio.com/items?itemName=ZubairIbnZamir.bytes-newsletter-theme) <br />
 The optimized dark theme for web development.
 
