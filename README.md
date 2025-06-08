@@ -10,7 +10,6 @@
 <br />
 <br />
 <br />
-<br />
 
 Interesting thing - 
 - [fireship](https://www.youtube.com/watch?v=FQPlEnKav48)
